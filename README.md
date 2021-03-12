@@ -2,8 +2,6 @@
 
 Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
 
-![Screenshot](https://s32.postimg.org/gdtp6pw1x/ink.png)
-
 # Installation 
 
 ##### Setup on your local machine
