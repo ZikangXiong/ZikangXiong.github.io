@@ -1,5 +1,5 @@
 Template was forked from [Ink](https://github.com/thinker3197/ink).   
 
 # Adaptations
-- Changes `.posts.hight` to 100%; enable `background: scroll`.   
+- Adaptive full-screen display (Change `.posts.hight` to 100%; enable `post.position: fixed`).   
 - Replace index.html with index.md.   
