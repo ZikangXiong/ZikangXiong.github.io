@@ -1,18 +1,18 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Zikang Xiong"
+description:        "PhD student @ Purdue CS"
 
-url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+url:                "https://www.cs.purdue.edu/homes/xiong84/"
+author:             "ZikangXiong"
+email:              "zikangxiong@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+twitter:            "caffe_tt"
+email:              "zikangxiong@gmail.com"
+github:             "ZikangXiong"
+# pinterest:          "jhondoe"
+linkedin:           "zikang-xiong-934a05138"
+# facebook:           "jhondoe"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   ""
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
@@ -27,7 +27,7 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
+  - name:           "Research"
     href:           "/releases"
 
 sass:
