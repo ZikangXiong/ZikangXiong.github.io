@@ -20,7 +20,7 @@ echo "emlrYW5neGlvbmdAZ21haWwuY29t" | base64 -d
 # Projects
 
 ## Verifiable Reinforcement Learning
-Deep neural network is generally used as a black-box function without any formal guarantee on its properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone will collide with ground. This line of work provided verifiable safety guarantee for neural-network-controlled cyber-physical-systems (e.g., robots, UVA) trained with reinforcement learning.
+Deep neural network is generally used as a black-box function without any formal guarantee on its properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone will collide with ground. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
 
 ### Related publications:
 *Scalable Synthesis of Verified Controllers in Deep Reinforcement Learning*  
