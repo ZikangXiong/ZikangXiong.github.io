@@ -25,11 +25,11 @@ permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
 
-nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Research"
-    href:           "/releases"
+# nav:
+#   - name:           "About"
+#     href:           "/about"
+#   - name:           "Research"
+#     href:           "/releases"
 
 sass:
   style:            :compressed
