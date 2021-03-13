@@ -12,9 +12,9 @@ github:             "ZikangXiong"
 linkedin:           "zikang-xiong-934a05138"
 # facebook:           "jhondoe"
 
-disqus_shortname:   ""
+disqus_shortname:   "zikangxiong"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "resources/background.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
