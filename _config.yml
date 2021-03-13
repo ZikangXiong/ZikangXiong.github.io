@@ -11,8 +11,9 @@ github:             "ZikangXiong"
 # pinterest:          "jhondoe"
 linkedin:           "zikang-xiong-934a05138"
 # facebook:           "jhondoe"
+google_scholar:     "H-EoAgYAAAAJ"
 
-disqus_shortname:   "zikangxiong"
+# disqus_shortname:   "zikangxiong"
 
 background:         "https://user-images.githubusercontent.com/73256697/111019101-17ec7f80-838b-11eb-8de3-ff104e11481e.jpg"
 
@@ -40,12 +41,12 @@ defaults:
       type:         "pages"
     values:
       layout:       "page"
-#   -
-#     scope:
-#       path:         ""
-#       type:         "posts"
-#     values:
-#       layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 gems:
   - jekyll-paginate
