@@ -8,12 +8,9 @@ gravatar_hash:      "cf4dc3620a0f6c636ce921cd8a69f6ab"
 twitter:            "caffe_tt"
 email:              "zikangxiong@gmail.com"
 github:             "ZikangXiong"
-# pinterest:          "jhondoe"
 linkedin:           "zikang-xiong-934a05138"
-# facebook:           "jhondoe"
-google_scholar:     "H-EoAgYAAAAJ"
-
-# disqus_shortname:   "zikangxiong"
+google-scholar:     "H-EoAgYAAAAJ"
+google-analytics:   "G-XKP43V9XVL"
 
 background:         "https://user-images.githubusercontent.com/73256697/111019101-17ec7f80-838b-11eb-8de3-ff104e11481e.jpg"
 
@@ -24,12 +21,6 @@ baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
-
-# nav:
-#   - name:           "About"
-#     href:           "/about"
-#   - name:           "Research"
-#     href:           "/releases"
 
 sass:
   style:            :compressed
@@ -50,3 +41,14 @@ defaults:
 
 gems:
   - jekyll-paginate
+
+
+# disqus_shortname:   "zikangxiong"
+# facebook:           "jhondoe"
+# pinterest:          "jhondoe"
+
+# nav:
+#   - name:           "About"
+#     href:           "/about"
+#   - name:           "Research"
+#     href:           "/releases"
