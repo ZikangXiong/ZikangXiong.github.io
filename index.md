@@ -39,7 +39,7 @@ Neural network controllers are not robust to adversarial attacks, which exposes 
 ### Related publication:
 *Robustness to Adversarial Attacks in Learning-Enabled Controllers*  
 **Zikang Xiong**, Joe Eappen, He Zhu and Suresh Jagannathan.
-Under Review \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/Adversarial20.pdf)\] \[[tool](https://hub.docker.com/repository/docker/caffett/neural_shield)\] [vedio demo](https://www.youtube.com/watch?v=K_mCkU_8x7M)      
+Under Review \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/Adversarial20.pdf)\] \[[tool](https://hub.docker.com/repository/docker/caffett/neural_shield)\] \[[vedio demo](https://www.youtube.com/watch?v=K_mCkU_8x7M)\]      
 
 ---
 
