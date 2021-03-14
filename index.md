@@ -20,7 +20,7 @@ echo "emlrYW5neGlvbmdAZ21haWwuY29t" | base64 -d
 # Projects
 
 ## Verifiable Reinforcement Learning
-Deep neural network is generally used as a black-box function without any formal guarantee on its properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone will collide with ground. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
+Despire Deep neural network is generally used as a black-box function without any formal guarantee on its properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone will collide with ground. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
 
 ### Related publications:
 *Scalable Synthesis of Verified Controllers in Deep Reinforcement Learning*  
@@ -34,7 +34,7 @@ PLDI 2019 \[[pdf](https://arxiv.org/pdf/1907.07273.pdf)\] \[[tool](https://githu
 
 
 ## Adversarial Attack & Defense of Deep Reinforcement Learning
-Neural network controllers are not robust to adversarial attacks, which exposes them in great threat from malicious attackers. Our aim is to explore both attack and defense techniques for deep-neural-network controlled systems, thus providing more robust neural network controllers. 
+Neural network controllers are not robust to adversarial attacks, which exposes them in great threat from malicious attackers. We aim to explore both attack and defense techniques for deep-neural-network controlled systems, thus providing more robust neural network controllers. 
 
 ### Related publications:
 *Robustness to Adversarial Attacks in Learning-Enabled Controllers*  
