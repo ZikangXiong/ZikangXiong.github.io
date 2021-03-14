@@ -323,18 +323,19 @@ tbody tr:nth-child(odd) th {
         margin-top: 10vw;
         width: 50%;
         float: right;
-        color: #FFF;
+        color: grey;
     }
     p {
         height: auto;
         width: 100%;
         text-align: center;
-        color: #BDBDBD;
+        color: grey;
     }
     .social {
         margin-left: 25vw;
         height: auto;
         width: 100%;
+        color: white
     }
     @media (min-width: 38em) {
         position: fixed;
