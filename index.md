@@ -6,7 +6,7 @@ layout: index
 
 # Introduction
 
-I am a PhD student of [Computer Science Department](https://www.cs.purdue.edu/), [Purdue University](https://www.purdue.edu/). My advisor is [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I am working on attack / defense / assurance of deep learning, especially deep reinforcement learning, from the perspective of formal methods. I received my B.Eng of Software Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2018.
+I am a PhD student of [Computer Science Department](https://www.cs.purdue.edu/), [Purdue University](https://www.purdue.edu/). My advisor is [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I am working on attack/defense/assurance of deep learning, especially deep reinforcement learning, from the perspective of formal methods. I received my B.Eng of Software Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2018.
 
 [CV](https://www.cs.purdue.edu/homes/xiong84/res/cv/cv.pdf) updated at 2021-02-27.
 
@@ -20,7 +20,7 @@ echo "emlrYW5neGlvbmdAZ21haWwuY29t" | base64 -d
 # Projects
 
 ## Verifiable Reinforcement Learning
-Despite deep neural networks have achieved promising performance in various tasks, they are generally used as a black-box function without any formal guarantee on its properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone, which was operated in a complex environment, will collide with ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
+Despite deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone, which was operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
 
 ### Related publications:
 *Scalable Synthesis of Verified Controllers in Deep Reinforcement Learning*  
