@@ -20,7 +20,7 @@ echo "emlrYW5neGlvbmdAZ21haWwuY29t" | base64 -d
 # Projects
 
 ## Verifiable Reinforcement Learning
-Despite deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone, which was operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
+Despite deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone, which is operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
 
 ### Related publications:
 *Scalable Synthesis of Verified Controllers in Deep Reinforcement Learning*  
