@@ -6,9 +6,9 @@ layout: index
 
 # Introduction
 
-I am a PhD student of [Computer Science Department](https://www.cs.purdue.edu/), [Purdue University](https://www.purdue.edu/). My advisor is [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I am working on attack/defense/assurance of deep learning, especially deep reinforcement learning, from the perspective of formal methods. I received my B.Eng of Software Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2018.
+I am a PhD student of [Computer Science Department](https://www.cs.purdue.edu/), [Purdue University](https://www.purdue.edu/). My advisor is [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/). I am working on attack/defense/assurance of deep learning, especially deep reinforcement learning, from the perspective of formal methods. I received my B.Eng. of Software Engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) in 2018.
 
-[CV](https://www.cs.purdue.edu/homes/xiong84/res/cv/cv.pdf) updated at 2021-02-27.
+[CV](https://www.cs.purdue.edu/homes/xiong84/res/cv/cv.pdf) updated at 2021-04-07.
 
 # Contact
 ```sh
@@ -20,7 +20,7 @@ echo "emlrYW5neGlvbmdAZ21haWwuY29t" | base64 -d
 # Projects
 
 ## Verifiable Reinforcement Learning
-Despite deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, we cannot know whether a neural-network-controlled drone, which is operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
+Although deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, it is unclear whether a neural-network-controlled drone, which is operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
 
 ### Related publications:
 *Scalable Synthesis of Verified Controllers in Deep Reinforcement Learning*  
@@ -34,7 +34,7 @@ PLDI 2019 \[[pdf](https://arxiv.org/pdf/1907.07273.pdf)\] \[[tool](https://githu
 
 
 ## Adversarial Attack & Defense of Deep Reinforcement Learning
-Neural network controllers are not robust to adversarial attacks, which exposes them in great threat from malicious attackers. We aim to explore both attack and defense techniques for deep-neural-network controlled systems, thus providing more robust neural network controllers. 
+Neural network controllers are not robust to adversarial attacks, which exposes them to great threats from malicious attackers. We aim to explore both attack and defense techniques for deep-neural-network controlled systems, thus providing more robust neural network controllers. 
 
 ### Related publication:
 *Robustness to Adversarial Attacks in Learning-Enabled Controllers*  
