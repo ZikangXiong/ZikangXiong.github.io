@@ -47,4 +47,8 @@ at AAMAS 2021 & Under Submission \[[pdf](https://www.cs.purdue.edu/homes/xiong84
 # Services
 [ADHS 2021](https://sites.uclouvain.be/adhs21/) AEC, [CAV 2020](http://i-cav.org/2020/) AEC, [PLDI 2020](https://conf.researchr.org/home/pldi-2020) AEC
 
+---
+
+# Others
+📚 My recent paper reading [notes](https://xiong.zikang.me/blogs).   
 
