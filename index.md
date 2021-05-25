@@ -49,6 +49,10 @@ at AAMAS 2021 & Under Submission \[[pdf](https://www.cs.purdue.edu/homes/xiong84
 
 ---
 
+# Internship  
+I will join [Baidu Autonomous Driving Unit (Apollo)](https://apollo.auto/) as a research intern from June, 2021.   
+
+
 # Others
 📚 My recent paper reading [notes](https://xiong.zikang.me/blogs).   
 
