@@ -25,7 +25,7 @@ Although deep neural networks have achieved promising performance in various tas
 ### Related publications:
 *Scalable Synthesis of Verified Controllers in Deep Reinforcement Learning*  
 **Zikang Xiong**, and Suresh Jagannathan.  
-Under Review \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/CAV21.pdf)\]  
+4th Workshop on Formal Methods for ML-Enabled Autonomous Systems \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/CAV21.pdf)\]  
 
 *An Inductive Synthesis Framework for Verifiable Reinforcement Learning.*   
 He Zhu, **Zikang Xiong**, Stephen Magill and Suresh Jagannathan.    
@@ -40,7 +40,7 @@ Neural network controllers are not robust to adversarial attacks, which exposes 
 *Robustness to Adversarial Attacks in Learning-Enabled Controllers*  
 **Zikang Xiong**, Joe Eappen, He Zhu and Suresh Jagannathan.  
 Adaptive and Learning Agents Workshop
-at AAMAS 2021 & Under Submission \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/Adversarial20.pdf)\] \[[tool](https://hub.docker.com/repository/docker/caffett/neural_shield)\] \[[talk](https://www.youtube.com/watch?v=_52awZEp2iI)\]      
+at AAMAS 2021 \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/Adversarial20.pdf)\] \[[tool](https://hub.docker.com/repository/docker/caffett/neural_shield)\] \[[talk](https://www.youtube.com/watch?v=_52awZEp2iI)\]      
 
 ---
 
@@ -50,7 +50,7 @@ at AAMAS 2021 & Under Submission \[[pdf](https://www.cs.purdue.edu/homes/xiong84
 ---
 
 # Internship  
-I will join [Baidu Autonomous Driving Unit (Apollo)](https://apollo.auto/) as a research intern from June, 2021.   
+[Baidu Autonomous Driving Unit (Apollo)](https://apollo.auto/), Path Planning Optimization, 06/2021 - 09/2021.   
 
 <!-- ---
 # Others
