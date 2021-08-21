@@ -59,7 +59,7 @@ at AAMAS 2021 \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/Adversa
 * [Apollo](https://apollo.auto/), 06/2021 - 09/2021.
   
 > Autotuner for speed planning's hyper-parameters  
-> 1. Design and implemented a learning-based speed plan criteria.  
+> 1. Design and implement a learning-based speed plan criteria.  
 > 2. Key techniques: DP- and QP-based planning and learning-based planning; inversed reinforcement learning; senerios encoding;  bayesian optimization.  
 
 <!-- ---
