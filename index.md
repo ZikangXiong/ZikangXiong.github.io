@@ -22,7 +22,7 @@ echo "emlrYW5neGlvbmdAZ21haWwuY29t" | base64 -d
 
 ### Verifiable Reinforcement Learning
 
-Although deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, it is unclear whether a neural-network-controlled drone, which is operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
+> Although deep neural networks have achieved promising performance in various tasks, they are generally used as black-box functions without any formal guarantee on their properties. For example, without formal analysis, it is unclear whether a neural-network-controlled drone, which is operated in a complex environment, will collide with the ground or not. This line of work provided verifiable safety guarantee for cyber-physical-systems (e.g., robots, UVA) trained with deep reinforcement learning.  
 
 #### Related publications
 
@@ -37,7 +37,7 @@ PLDI 2019 \[[pdf](https://arxiv.org/pdf/1907.07273.pdf)\] \[[tool](https://githu
 
 ### Adversarial Attack & Defense of Deep Reinforcement Learning
 
-Neural network controllers are not robust to adversarial attacks, which exposes them to great threats from malicious attackers. We aim to explore both attack and defense techniques for deep-neural-network controlled systems, thus providing more robust neural network controllers.
+> Neural network controllers are not robust to adversarial attacks, which exposes them to great threats from malicious attackers. We aim to explore both attack and defense techniques for deep-neural-network controlled systems, thus providing more robust neural network controllers.
 
 #### Related publication
 
@@ -57,9 +57,10 @@ at AAMAS 2021 \[[pdf](https://www.cs.purdue.edu/homes/xiong84/res/papers/Adversa
 ## Internship
 
 * [Apollo](https://apollo.auto/), 06/2021 - 09/2021.
-  * Autotuner for speed planning's hyper-parameters  
-    1. Design and implemented a learning-based speed plan criteria.  
-    2. Key techniques: DP- and QP-based planning and learning-based planning; inversed reinforcement learning; senerios encoding;  bayesian optimization.  
+  
+> Autotuner for speed planning's hyper-parameters  
+> 1. Design and implemented a learning-based speed plan criteria.  
+> 2. Key techniques: DP- and QP-based planning and learning-based planning; inversed reinforcement learning; senerios encoding;  bayesian optimization.  
 
 <!-- ---
 # Others
